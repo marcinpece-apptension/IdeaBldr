@@ -1,4 +1,4 @@
-Project setup:
+# Project setup: #
 # add required global libraries
 npm install typings webpack-dev-server rimraf webpack -g
 
